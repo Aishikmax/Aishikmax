@@ -11,7 +11,7 @@ It's not just about staying ahead of the curve; it's about embracing the thrill 
 
 ### Secret Ingredient
 
-But here's the secret ingredient that sets me apart – my dedication to practical problem-solving and the pursuit of scalable automation. I am committed to sharpening my skills, whether through architecting automated AI agents with n8n, researching with climate forecasting using Generative AI. 🌱🚀 I thrive on the excitement of being at the forefront of AI advancements and leveraging emerging generative models to create solutions that drive positive, real-world change. ✨🔥
+But here's the secret ingredient that sets me apart – my dedication to practical problem-solving and the pursuit of scalable automation. I am committed to sharpening my skills, whether through architecting automated AI agents with n8n, researching with weather forecasting using Generative AI. 🌱🚀 I thrive on the excitement of being at the forefront of AI advancements and leveraging emerging generative models to create solutions that drive positive, real-world change. ✨🔥
 
 ### Let's Collaborate!
 

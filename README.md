@@ -1,3 +1,8 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aishikmax&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Aishikmax&langs_count=5&layout=compact&theme=vision-friendly-dark)
+
+
 ### About Me
 
 With a diverse skill set that encompasses powerful technologies like Python, PyTorch, LangChain, and vector databases, I fearlessly dive into the realms of Generative AI, LLMs, and complex data modeling. 🌟 But my appetite for knowledge doesn't stop there. Every day, I embark on a quest to learn new AI architectures, from Vision Transformers to Latent Diffusion Models, challenging myself to expand my horizons and conquer massive, unstructured datasets. 🚀📚
@@ -23,6 +28,3 @@ I'm always open to new opportunities, collaborations, and exciting data challeng
 
 Remember, in the world of machine learning, innovation, and real-world data, the possibilities are limitless. Let's embark on this thrilling journey and shape the future together! 🌍🚀
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aishikmax&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Aishikmax&langs_count=5&layout=compact&theme=vision-friendly-dark)
